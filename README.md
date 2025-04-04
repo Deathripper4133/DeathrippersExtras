@@ -28,9 +28,40 @@ Additional Features
     * Unfortunately I got no idea how to sort kits into Factions so for the time being we got a big ol list and a search bar
     * On the brightside this shows ALL kits regardless of if they are in a factionsetup.
 
+5. Share and Repack
+    * Quick Repack (Hotkey)
+        * Will repack (merge) your current mag with the last mag in your weapons inventory. Then add the mag(s) to weapons inventory.
+            >you will have to reload.
+
 Video Showcase: https://youtu.be/mgvzLo90xT8
 
 Special thanks to Mekki for the "RoleUtilities" he posted. I've only done a handful of changes to his code but otherwise the inventory switching is mostly done by his code.
+
+### Mod Menu
+Basic Menu that will be used to access other projects' UI
+
+Keybind: "U"
+
+### Night Vision
+Allows players to see at night... Actor includes 4 Materials (Green, Blue, Multicolor, Yellow) and allows for additional materials to be added easily (and categorized for easy tracking/disabling)
+
+Additional Features
+* Basic UI
+    1. Cycle Options
+        * Cycles through all available options before turning off NVGs
+
+    2. NVG Type
+        * Select a specific type to use (ie green, blue)
+
+    3. Tube Count
+        * How many tubes display the NVG material
+
+    4. Tube Location
+        * When tube count is single; determines where the single tube is located
+
+    5. Emergency shut OFF
+        * Turns off NVGs incase keybind is broken or smth
+
 
 
 ## Projects: Upcoming Features
@@ -40,9 +71,6 @@ Coming Soon
 * UI Rework
 * Insert/Replace/Remove items from inventory
 * Introduction to Share and Repack (aleady made just need to integrate)
-    * Quick Repack (Hotkey)
-        * Will repack (merge) your current mag with the last mag in your weapons inventory. Then add the mag(s) to weapons inventory.
-            >you will have to reload.
 
 Planned For Later
 * Finish Share and Repack Integration
@@ -71,3 +99,18 @@ Planned For Later
         
         * Remove Equippables
             * Players' SLs/CMD can remove items from their inventory
+
+
+
+### Night Vision
+Coming Soon
+* Admin Menu UI: will be able to toggle use of certain features
+    * Per Team Options
+    * Toggle NVG use (can keybind be pressed)
+        * White/Black list of Categories (ie can allow only thermals or disable all thermals from being used)
+    * Toggle NVGs (toggle on/off)
+    * Toggle Parameter Changes (can player change the following)
+        * Cycle NVGs
+        * Tube Type
+        * Tube Count
+        * Tube Location
