@@ -1,8 +1,8 @@
 # Squad Modding
- This Repo showcases the mods I've made for the Squad Modding Community.
- >Note: Not all of the features I've made will be posted, some will remain private. In other words I will not release ALL of the stuff I've worked on.
+ This Repo showcases the features I've made for the Squad Modding Community. These are crude unlike complete plug n play mods. This is more or less meant to share 'core' features.
+ >Note: Not all of the features I've made for other mods will be posted, some will remain private. In other words I will not release ALL of the stuff I've worked on.
 
-Listed below are all the projects of this repo and their features.
+I dont really plan to upkeep these features outside of maybe game breaking bugs. Listed below are all the projects of this repo and their features.
 
 ## Projects
 
