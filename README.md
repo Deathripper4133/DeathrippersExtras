@@ -62,7 +62,7 @@ Additional Features
     5. Emergency shut OFF
         * Turns off NVGs incase keybind is broken or smth
 
-
+Video Showcase: https://youtu.be/NvTXIMXEnDY
 
 ## Projects: Upcoming Features
 
