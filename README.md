@@ -32,6 +32,10 @@ Additional Features
     * Quick Repack (Hotkey)
         * Will repack (merge) your current mag with the last mag in your weapons inventory. Then add the mag(s) to weapons inventory.
             >you will have to reload.
+            
+    * Quick Share (Hotkey) 
+        * Item or Magazine with another person. Hotkey will share item/mag #2. 
+
 
 Video Showcase: https://youtu.be/mgvzLo90xT8
 
@@ -64,6 +68,19 @@ Additional Features
 
 Video Showcase: https://youtu.be/NvTXIMXEnDY
 
+* Admin Menu UI: will be able to toggle use of certain features
+    * Per Team Options
+    * Toggle NVG use (can keybind be pressed)
+        * White/Black list of Categories (ie can allow only thermals or disable all thermals from being used)
+    * Toggle NVGs (toggle on/off)
+    * Toggle Parameter Changes (can player change the following)
+        * Cycle NVGs
+        * Tube Type
+        * Tube Count
+        * Tube Location
+
+Video Showcase: https://youtu.be/JqlKpEnpV1w
+
 ## Projects: Upcoming Features
 
 ### Kit Manager
@@ -74,9 +91,6 @@ Coming Soon
 
 Planned For Later
 * Finish Share and Repack Integration
-    * Quick Share (Hotkey) 
-        * Item or Magazine with another person. Hotkey will share item/mag #2. 
-
     * Quick Share UI
         * Will share the selected mag/item instead of #2 in weapons inventory.
 
@@ -101,16 +115,3 @@ Planned For Later
             * Players' SLs/CMD can remove items from their inventory
 
 
-
-### Night Vision
-Coming Soon
-* Admin Menu UI: will be able to toggle use of certain features
-    * Per Team Options
-    * Toggle NVG use (can keybind be pressed)
-        * White/Black list of Categories (ie can allow only thermals or disable all thermals from being used)
-    * Toggle NVGs (toggle on/off)
-    * Toggle Parameter Changes (can player change the following)
-        * Cycle NVGs
-        * Tube Type
-        * Tube Count
-        * Tube Location
