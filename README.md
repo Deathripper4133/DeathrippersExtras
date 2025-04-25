@@ -35,6 +35,16 @@ Additional Features
             
     * Quick Share (Hotkey) 
         * Item or Magazine with another person. Hotkey will share item/mag #2. 
+    
+    * Quick Share UI
+        * Will share the selected mag/item instead of #2 in weapons inventory.
+
+    * Precise Repack UI
+        * Balance out mags or top off a mag by precisely adding bullets from another selected mag.
+
+    * Quick Repack UI 
+        * The same function as hotkey except you can choose a mag to quickly repack into.
+
 
 
 Video Showcase: https://youtu.be/mgvzLo90xT8
@@ -86,19 +96,8 @@ Video Showcase: https://youtu.be/JqlKpEnpV1w
 ### Kit Manager
 Coming Soon
 * UI Rework
+
 * Insert/Replace/Remove items from inventory
-* Introduction to Share and Repack (aleady made just need to integrate)
-
-Planned For Later
-* Finish Share and Repack Integration
-    * Quick Share UI
-        * Will share the selected mag/item instead of #2 in weapons inventory.
-
-    * Precise Repack
-        * Balance out mags or top off a mag by precisely adding bullets from another selected mag.
-
-    * Quick Repack UI 
-        * The same function as hotkey except you can choose a mag to quickly repack into.
 
 * Inventory Viewer
     * Will be able to see others' inventory
