@@ -1,5 +1,5 @@
 # Squad Modding
- This Repo showcases the features I've made for the Squad Modding Community. These are crude unlike complete plug n play mods. This is more or less meant to share 'core' features.
+ This Repo showcases the features I've made for the Squad Modding Community. These are crude unlike complete plug n play mods. This is more or less meant to share 'core' features. Expect ALL provided UIs to be DEMO versions, basically not intended for actual use. 
  >Note: Not all of the features I've made for other mods will be posted, some will remain private. In other words I will not release ALL of the stuff I've worked on.
 
 I dont really plan to upkeep these features outside of maybe game breaking bugs. Listed below are all the projects of this repo and their features.
@@ -45,11 +45,25 @@ Additional Features
     * Quick Repack UI 
         * The same function as hotkey except you can choose a mag to quickly repack into.
 
-
-
 Video Showcase: https://youtu.be/mgvzLo90xT8
 
 Special thanks to Mekki for the "RoleUtilities" he posted. I've only done a handful of changes to his code but otherwise the inventory switching is mostly done by his code.
+
+
+6. Inventory Viewer
+    * Will be able to see others' inventory
+        * Disarm Player 
+            * Will remove all items of inventory and add BP_Surrender
+
+        * Restrain Player 
+            * Will add BP_Surrender, switch to surrender, and lock weapon input
+
+        * Request Ammo (not available while in admin cam)
+            * Players can request Items/Mags from each other.
+        
+        * Remove Equippables
+            * Players' SLs/CMD can remove items from their inventory
+
 
 ### Mod Menu
 Basic Menu that will be used to access other projects' UI
@@ -99,18 +113,5 @@ Coming Soon
 
 * Insert/Replace/Remove items from inventory
 
-* Inventory Viewer
-    * Will be able to see others' inventory
-        * Disarm Player 
-            * Will remove all items of inventory and add BP_Surrender
-
-        * Restrain Player 
-            * Will add BP_Surrender, switch to surrender, and lock weapon input
-
-        * Request Ammo (not available while in admin cam)
-            * Players can request Items/Mags from each other.
-        
-        * Remove Equippables
-            * Players' SLs/CMD can remove items from their inventory
 
 
