@@ -32,10 +32,13 @@ Additional Features
     * Quick Repack (Hotkey)
         * Will repack (merge) your current mag with the last mag in your weapons inventory. Then add the mag(s) to weapons inventory.
             >you will have to reload.
-            
+
     * Quick Share (Hotkey) 
         * Item or Magazine with another person. Hotkey will share item/mag #2. 
-    
+
+Video Showcase: https://youtu.be/mgvzLo90xT8 
+
+5. Continued
     * Quick Share UI
         * Will share the selected mag/item instead of #2 in weapons inventory.
 
@@ -45,7 +48,10 @@ Additional Features
     * Quick Repack UI 
         * The same function as hotkey except you can choose a mag to quickly repack into.
 
-Video Showcase: https://youtu.be/mgvzLo90xT8
+    * Precise Repack (Hotkey)
+        * Allows players to precise repack the weapon in their hand, however locks weapon usage during and after a short delay
+
+Video Showcase: https://youtu.be/sfC8w2s2H3U
 
 Special thanks to Mekki for the "RoleUtilities" he posted. I've only done a handful of changes to his code but otherwise the inventory switching is mostly done by his code.
 
@@ -63,6 +69,13 @@ Special thanks to Mekki for the "RoleUtilities" he posted. I've only done a hand
         
         * Remove Equippables
             * Players' SLs/CMD can remove items from their inventory
+
+Video Showcase: https://youtu.be/dsXS9yfoARU
+
+7. Insert/Replace/Remove items from inventory
+    * Not much else to say, you Insert, Replace, and Remove stuff from  your Inventory now
+
+Video Showcase: https://youtu.be/0n-iHUvkgR8
 
 
 ### Mod Menu
@@ -104,14 +117,5 @@ Video Showcase: https://youtu.be/NvTXIMXEnDY
         * Tube Location
 
 Video Showcase: https://youtu.be/JqlKpEnpV1w
-
-## Projects: Upcoming Features
-
-### Kit Manager
-Coming Soon
-* UI Rework
-
-* Insert/Replace/Remove items from inventory
-
 
 
